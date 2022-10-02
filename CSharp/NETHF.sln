@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETHF", "NETHF\NETHF.csproj", "{6B00EA9F-65ED-41C9-8C36-87CA9D27CB4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "common", "common\common.csproj", "{BBE46066-52B9-44CA-ABA6-92704C138BD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graph", "graph\graph.csproj", "{5A27FC73-CB93-41E5-800D-06E6D7D1B78A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B00EA9F-65ED-41C9-8C36-87CA9D27CB4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B00EA9F-65ED-41C9-8C36-87CA9D27CB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B00EA9F-65ED-41C9-8C36-87CA9D27CB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B00EA9F-65ED-41C9-8C36-87CA9D27CB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE46066-52B9-44CA-ABA6-92704C138BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE46066-52B9-44CA-ABA6-92704C138BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE46066-52B9-44CA-ABA6-92704C138BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE46066-52B9-44CA-ABA6-92704C138BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A27FC73-CB93-41E5-800D-06E6D7D1B78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A27FC73-CB93-41E5-800D-06E6D7D1B78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A27FC73-CB93-41E5-800D-06E6D7D1B78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A27FC73-CB93-41E5-800D-06E6D7D1B78A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
